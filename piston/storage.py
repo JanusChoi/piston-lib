@@ -259,7 +259,7 @@ class Configuration(DataDir):
         "limit": 10,
         "list_sorting": "trending",
         ##"node": "wss://this.piston.rocks,wss://steemd.steemit.com,wss://node.steem.ws",
-        "node": "wss://this.piston.rocks,https://api.steemit.com,wss://node.steem.ws",
+        "node": "https://api.steemit.com",
         "post_category": "steem",
         "rpcpassword": "",
         "rpcuser": "",
